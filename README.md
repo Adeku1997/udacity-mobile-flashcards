@@ -13,7 +13,7 @@ This app is the third of three projects required for [Udacity's React Nanodegree
 Clone the repository, change directories, and use npm or yarn to install the dependencies.
 
 ```bash
-$ git clone https://github.com/james-priest/mobile-flashcards.git
+$ git clone https://github.com/Adeku1997/mobile-flashcards.git
 $ cd mobile-flashcards
 $ yarn
 ```

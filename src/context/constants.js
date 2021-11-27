@@ -1,0 +1,9 @@
+export const GetDecks = "GetDecks";
+export const GetDeck = "GetDeck";
+export const SaveDeckTitle = "SaveDeckTitle";
+export const AddCardToDeck = "AddCardToDeck";
+export const SelectedDeck = "SelectedDeck";
+export const QuizedDeck = "QuizedDeck";
+export const SaveQuizProgress = "SaveQuizProgress";
+export const ReStartQuiz = "ReStartQuiz";
+export const DeleteDeck = "DeleteDeck";
